@@ -6,7 +6,11 @@ It offers product browsing, search, a dynamic cart system, and an admin dashboar
 ---
 
 ## 📸 Screenshots
-(Add images here)
+   <img width="1895" height="903" alt="image" src="https://github.com/user-attachments/assets/205af976-db14-442b-8f1e-2a10e2530e8f" />
+   <img width="1860" height="919" alt="image" src="https://github.com/user-attachments/assets/f9340f8a-d192-421a-b79d-ad1627fab20c" />
+   <img width="1604" height="766" alt="image" src="https://github.com/user-attachments/assets/f64d6cd0-fa9c-4041-8bf5-78e90f95e467" />
+
+
 
 ---
 
